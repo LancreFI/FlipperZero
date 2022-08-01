@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: RL_light_pwr
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 4D B2 00 00
+# 
+name: RL_fan_pwr
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 4C B3 00 00
+# 
+name: RL_fan_1
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 42 BD 00 00
+# 
+name: RL_fan_2
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 1A E5 00 00
+# 
+name: RL_fan_3
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 45 BA 00 00
+# 
+name: RL_light_up
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 0B F4 00 00
+# 
+name: RL_light_down
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 0E F1 00 00
+# 
+name: RL_light_colder
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 10 EF 00 00
+# 
+name: RL_light_warmer
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 11 EE 00 00
+# 
+name: RL_light_mode
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 0D F2 00 00
+# 
+name: RL_light_night
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 4B B4 00 00
+# 
+name: RL_1h
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 4E B1 00 00
+# 
+name: RL_2h
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 4A B5 00 00
+# 
+name: RL_4h
+type: parsed
+protocol: NECext
+address: 40 40 00 00
+command: 4F B0 00 00
